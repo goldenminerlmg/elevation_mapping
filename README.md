@@ -1,3 +1,6 @@
+这里有个腿式机器人巡检使用的技术案例
+https://cloud.tencent.com/developer/news/132290
+
 # Robot-Centric Elevation Mapping
 
 ## Overview
